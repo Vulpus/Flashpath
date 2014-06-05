@@ -9,8 +9,7 @@ gzipped as of v0.1 product release)
 
 #### All OS
 
-To start your server, make sure you have nodejs installed and type ```node``` (path
-to flashpath/Server.js)
+To start your server, make sure you have nodejs installed and type ```node (path to flashpath/Server.js)```
 #### What if I don't have nodejs installed
 
 You can install node.js at http://www.nodejs.org or the node_modules/install_dependancies(bash) file will install ALL depenancies for you (Takes a really long time)
