@@ -16,8 +16,7 @@ to flashpath/Server.js)
 You can install node.js at http://www.nodejs.org or the node_modules/install_dependancies(bash) file will install ALL depenancies for you (Takes along time)
 ## What's new with 0.1-2?
 
-Flashpath 0.1-2 has now add 404 pages! For the time being (until I can add
-config files) these are not customizable.
+Flashpath 0.1-2 has now add 404 pages! For the time being, in your config.json file there is a error object. That is where you edit the 404 page.
 
 ## What the difference between dev and product releases?
 
