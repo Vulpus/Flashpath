@@ -13,7 +13,7 @@ To start your server, make sure you have nodejs installed and type ```node``` (p
 to flashpath/Server.js)
 #### What if I don't have nodejs installed
 
-You can install node.js at http://www.nodejs.org or the node_modules/install_dependancies(bash) file will install ALL depenancies for you (Takes along time)
+You can install node.js at http://www.nodejs.org or the node_modules/install_dependancies(bash) file will install ALL depenancies for you (Takes a long time)
 ## What's new with 0.1-2?
 
 Flashpath 0.1-2 has now add 404 pages! For the time being, in your config.json file there is a error object. That is where you edit the 404 page.
