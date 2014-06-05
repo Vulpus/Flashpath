@@ -23,5 +23,5 @@ config files) these are not customizable.
 
 When I make an substantial edit to the source I will make an addional build to
 the dev release. Product releases are released every 100 builds and are
-compiled and gzipped. With every build I will also produce a new install file.
+compiled and gzipped. With every release I will also produce a new install file.
 
