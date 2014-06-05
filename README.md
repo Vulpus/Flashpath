@@ -7,11 +7,13 @@ gzipped as of v0.1 product release)
 
 ### How do I start the Server?
 
-#### All
+#### All OS
 
-To start your server, make sure you have nodejs installed and type node (path
+To start your server, make sure you have nodejs installed and type ```node``` (path
 to flashpath/Server.js)
+#### What if I don't have nodejs installed
 
+You can install node.js at http://www.nodejs.org or the install_dependancies file will install ALL depenancies for you (OSX, linux, unix )
 ## What's new with 0.1-2?
 
 Flashpath 0.1-2 has now add 404 pages! For the time being (until I can add
